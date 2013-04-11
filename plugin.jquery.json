@@ -1,0 +1,31 @@
+{
+	"name": "",
+	"title": "",
+	"description": "",
+	"keywords": [],
+	"version": "",
+	"author": {
+		"name": "",
+		"email" : "",
+		"url": ""
+	},
+	"maintainers": [
+		{
+			"name": "",
+			"email": "",
+			"url": ""
+		}
+	],
+	"licenses": [
+		{
+			"type": "",
+			"url": ""
+		}
+	],
+	"bugs": "",
+	"docs": "",
+	"download": "",
+	"dependencies": {
+		"jquery": ">=1.0.0"
+	}
+}
